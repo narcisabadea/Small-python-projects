@@ -59,7 +59,7 @@ Some simple projects created using `Python3`.
    narcisabadea:~$ python3 watermark.py
    ```
 
-**[⬆ Back to Top](#small-python-projects)**
+   **[⬆ Back to Top](#small-python-projects)**
 
 4. ### Sending emails
 
@@ -104,7 +104,8 @@ Some simple projects created using `Python3`.
    **[⬆ Back to Top](#small-python-projects)**
 
 10. ### Iris Data Analysis
+
     The project uses [`Sklearn`](https://scikit-learn.org/stable/) and it's analysed in `Jupyter notebook` by using `datasets`, `model_selection`, `neighbors`, `metrics` from `sklearn`, along with `joblib` <br>
     The `Jupyter notebook .ipynb` file can be seen [`Here`](https://github.com/narcisabadea/Small-python-projects/blob/main/IrisAnalysis/Iris.ipynb)
 
-   **[⬆ Back to Top](#small-python-projects)**
+    **[⬆ Back to Top](#small-python-projects)**
