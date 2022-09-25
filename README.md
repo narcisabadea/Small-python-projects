@@ -116,7 +116,7 @@ Some simple projects created using `Python3`.
 
 8. ### Really smart brain
 
-   The project uses [`ImageAI Library`](https://github.com/OlafenwaMoses/ImageAI) which supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings and `TensorFlow` <br>
+   The project uses [`ImageAI Library`](https://github.com/OlafenwaMoses/ImageAI) which supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings, and also [`TensorFlow`](https://www.tensorflow.org/) <br>
    To run the project go to the `ReallySmartBrain` folder. <br>
 
    ```console
