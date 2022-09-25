@@ -2,7 +2,7 @@
 
 Some simple projects created using `Python3`.
 
-## Converter JPG images to PNG
+### Converter JPG images to PNG
 
 The project uses [`Pillow Imaging Library`](https://pillow.readthedocs.io/en/stable/) for manipulating images. <br>
 
@@ -10,7 +10,7 @@ To run the project go to the `JpgPngPokedexConverter` folder and use `python3 Jp
 
 It will loop through the imagines from the `Pokedex` folder, convert them to PNG format and save them to a `New` folder.
 
-## Password checked
+### Password checked
 
 The project uses [`Haveibeenpwned API`](https://haveibeenpwned.com/API/v3) which allows the list of pwned accounts (email addresses and usernames) to be quickly searched via a RESTful service. <br>
 
