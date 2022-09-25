@@ -61,9 +61,9 @@ Some simple projects created using `Python3`.
 
 7. ### Web scrapping
 
-The project uses [`BeautifulSoup Library`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) for pulling data out of HTML and XML files. <br>
-To run the project go to the `WebScrapping` folder. <br>
-It will do a request to the `https://news.ycombinator.com/news`.
+   The project uses [`BeautifulSoup Library`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) for pulling data out of HTML and XML files. <br>
+   To run the project go to the `WebScrapping` folder. <br>
+   It will do a request to the `https://news.ycombinator.com/news`.
 
 **[⬆ Back to Top](#small-python-projects)**
 
