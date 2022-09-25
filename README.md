@@ -15,42 +15,59 @@ Some simple projects created using `Python3`.
 
 1. ### Converter JPG images to PNG
 
-    The project uses [`Pillow Imaging Library`](https://pillow.readthedocs.io/en/stable/) for manipulating images. <br>
-    To run the project go to the `JpgPngPokedexConverter` folder and use `python3 JpgPngPokedexConverter.py`. <br>
-    It will loop through the imagines from the `Pokedex` folder, convert them to PNG format and save them to a `New` folder.
+   The project uses [`Pillow Imaging Library`](https://pillow.readthedocs.io/en/stable/) for manipulating images. <br>
+   To run the project go to the `JpgPngPokedexConverter` folder and use `python3 JpgPngPokedexConverter.py`. <br>
+   It will loop through the imagines from the `Pokedex` folder, convert them to PNG format and save them to a `New` folder.
 
-    **[⬆ Back to Top](#small-python-projects)**
+   **[⬆ Back to Top](#small-python-projects)**
 
 2. ### Password checker
 
-    The project uses [`Haveibeenpwned API`](https://haveibeenpwned.com/API/v3) which allows the list of pwned accounts (email addresses and usernames) to be quickly searched via a RESTful service. <br>
-    To run the project go to the `PasswordChecker` folder and use `python3 check_my_pass.py passwordToCheck`. <br>
-    It will do a request to the API and return the number of times it was found. <br>
+   The project uses [`Haveibeenpwned API`](https://haveibeenpwned.com/API/v3) which allows the list of pwned accounts (email addresses and usernames) to be quickly searched via a RESTful service. <br>
+   To run the project go to the `PasswordChecker` folder and use `python3 check_my_pass.py passwordToCheck`. <br>
+   It will do a request to the API and return the number of times it was found. <br>
 
-    **[⬆ Back to Top](#small-python-projects)**
+   **[⬆ Back to Top](#small-python-projects)**
 
 3. ### PDF merger
 
-    The project uses [`PyPDF2 Library`](https://pillow.readthedocs.io/en/stable/) for manipulating PDF files. <br>
-    To run the project go to the `PdfMerger` folder. <br>
-    It can merge multiple PDFs or add a watermark to it.
+   The project uses [`PyPDF2 Library`](https://pillow.readthedocs.io/en/stable/) for manipulating PDF files. <br>
+   To run the project go to the `PdfMerger` folder. <br>
+   It can merge multiple PDFs or add a watermark to it.
 
-    **[⬆ Back to Top](#small-python-projects)**
+   **[⬆ Back to Top](#small-python-projects)**
+
 4. ### Really smart brain
 
-    The project uses [`ImageAI Library`](https://github.com/OlafenwaMoses/ImageAI) which supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings <br>
-    To run the project go to the `ReallySmartBrain` folder. <br>
+   The project uses [`ImageAI Library`](https://github.com/OlafenwaMoses/ImageAI) which supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings <br>
+   To run the project go to the `ReallySmartBrain` folder. <br>
 
-    **[⬆ Back to Top](#small-python-projects)**
+   **[⬆ Back to Top](#small-python-projects)**
+
 5. ### Sending emails
 
-    **[⬆ Back to Top](#small-python-projects)**
+   By using the `smtplib module` we define an SMTP client session object that can be used to send mail to any internet machine with an SMTP.
+
+   **[⬆ Back to Top](#small-python-projects)**
+
 6. ### Sending SMS
 
-    **[⬆ Back to Top](#small-python-projects)**
+   The project uses [`Twilio Library`](https://www.twilio.com/) <br>
+   To run the project go to the `SmsPython` folder. <br>
+
+   **[⬆ Back to Top](#small-python-projects)**
+
 7. ### Twitter bot
 
-    **[⬆ Back to Top](#small-python-projects)**
+   The project uses [`Tweepy Library`](https://www.tweepy.org/) <br>
+   To run the project go to the `TwitterBot` folder. <br>
+
+   **[⬆ Back to Top](#small-python-projects)**
+
 8. ### Web scrapping
 
-    **[⬆ Back to Top](#small-python-projects)**
+   The project uses [`BeautifulSoup Library`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) for pulling data out of HTML and XML files. <br>
+   To run the project go to the `WebScrapping` folder. <br>
+   It will do a request to the `https://news.ycombinator.com/news`.
+
+   **[⬆ Back to Top](#small-python-projects)**
