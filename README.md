@@ -119,8 +119,17 @@ Some simple projects created using `Python3`.
    The project uses [`ImageAI Library`](https://github.com/OlafenwaMoses/ImageAI) which supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings, and also [`TensorFlow`](https://www.tensorflow.org/) <br>
    To run the project go to the `ReallySmartBrain` folder. <br>
 
+   The image can be changed from "house.jpg" to any other picture.
+   The modelPath can also be changed according to the 4 different algorithms and model types to perform image prediction provided by ImageAI: MobileNetV2, ResNet50, InceptionV3, DenseNet121.
+   After running the command below we will receive each object in the predictions array with the corresponding percentage probability.
+
    ```console
    narcisabadea:~$ python3 brain.py
+   church: 49.8652458190918
+   boathouse: 31.82643353930564
+   castle: 14.124444127082825
+   beacon: 1.6986381262540817
+   lakeside: 0.5432001315057278
    ```
 
    **[⬆ Back to Top](#small-python-projects)**
