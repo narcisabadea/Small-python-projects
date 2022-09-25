@@ -2,7 +2,7 @@
 
 Some simple projects created using `Python3`.
 
-### Converter JPG images to PNG
+### Converter JPG images to PNG <hr>
 
 The project uses [`Pillow Imaging Library`](https://pillow.readthedocs.io/en/stable/) for manipulating images. <br>
 
