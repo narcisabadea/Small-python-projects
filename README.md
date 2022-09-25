@@ -11,7 +11,7 @@ Some simple projects created using `Python3`.
 | 5   | [Sending SMS](#sending-sms)                                 | `Twilio Library`                                                   |
 | 6   | [Twitter bot](#twitter-bot)                                 | `Tweepy Library`                                                   |
 | 7   | [Web scrapping](#web-scrapping)                             | `BeautifulSoup Library`                                            |
-| 8   | [Really smart brain - ML](#really-smart-brain)              | `ImageAI`                                                          |
+| 8   | [Really smart brain - ML](#really-smart-brain)              | `ImageAI`, `TensorFlow`                                            |
 | 9   | [Soccer Data Analysis](#soccer-data-analysis)               | `Kaggle Dataset`, `Jupyter notebook`, `pandas`, `seaborn`, `bokeh` |
 | 10  | [Iris Data Analysis](#iris-data-analysis)                   | `Jupyter notebook`, `sklearn`, `joblib`                            |
 
@@ -116,7 +116,7 @@ Some simple projects created using `Python3`.
 
 8. ### Really smart brain
 
-   The project uses [`ImageAI Library`](https://github.com/OlafenwaMoses/ImageAI) which supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings <br>
+   The project uses [`ImageAI Library`](https://github.com/OlafenwaMoses/ImageAI) which supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings and `TensorFlow` <br>
    To run the project go to the `ReallySmartBrain` folder. <br>
 
    ```console
