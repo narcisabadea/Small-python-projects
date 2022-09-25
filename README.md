@@ -18,7 +18,12 @@ Some simple projects created using `Python3`.
 1. ### Converter JPG images to PNG
 
    The project uses [`Pillow Imaging Library`](https://pillow.readthedocs.io/en/stable/) for manipulating images. <br>
-   To run the project go to the `JpgPngPokedexConverter` folder and use `python3 JpgPngPokedexConverter.py`. <br>
+   To run the project go to the `JpgPngPokedexConverter` folder and use the below command: <br>
+
+   ```console
+   narcisabadea:~$ python3 JpgPngPokedexConverter.py Pokedex/ New/
+   ```
+
    It will loop through the imagines from the `Pokedex` folder, convert them to PNG format and save them to a `New` folder.
 
    **[⬆ Back to Top](#small-python-projects)**
@@ -41,9 +46,20 @@ Some simple projects created using `Python3`.
 
    The project uses [`PyPDF2 Library`](https://pillow.readthedocs.io/en/stable/) for manipulating PDF files. <br>
    To run the project go to the `PdfMerger` folder. <br>
-   It can merge multiple PDFs or add a watermark to it.
 
-   **[⬆ Back to Top](#small-python-projects)**
+   It can merge multiple PDFs into the `merged.pdf` file as following:
+
+   ```console
+   narcisabadea:~$ python3 pdfmerger.py dummy.pdf twopage.pdf tilt.pdf
+   ```
+
+   It can also add a watermark to a PDF:
+
+   ```console
+   narcisabadea:~$ python3 watermark.py
+   ```
+
+**[⬆ Back to Top](#small-python-projects)**
 
 4. ### Sending emails
 
@@ -88,8 +104,7 @@ Some simple projects created using `Python3`.
    **[⬆ Back to Top](#small-python-projects)**
 
 10. ### Iris Data Analysis
-
-   The project uses [`Sklearn`](https://scikit-learn.org/stable/) and it's analysed in `Jupyter notebook` by using `datasets`, `model_selection`, `neighbors`, `metrics` from `sklearn`, along with `joblib` <br>
-   The `Jupyter notebook .ipynb` file can be seen [`Here`](https://github.com/narcisabadea/Small-python-projects/blob/main/IrisAnalysis/Iris.ipynb)
+    The project uses [`Sklearn`](https://scikit-learn.org/stable/) and it's analysed in `Jupyter notebook` by using `datasets`, `model_selection`, `neighbors`, `metrics` from `sklearn`, along with `joblib` <br>
+    The `Jupyter notebook .ipynb` file can be seen [`Here`](https://github.com/narcisabadea/Small-python-projects/blob/main/IrisAnalysis/Iris.ipynb)
 
    **[⬆ Back to Top](#small-python-projects)**
