@@ -6,7 +6,7 @@ from pathlib import Path
 html = Template(Path('index.html').read_text())
 email = EmailMessage()
 email['from'] = 'Jane Doe'
-email['to'] = 'narcy611@yahoo.com'
+email['to'] = 'test@test.com'
 email['subject'] = 'You got mail'
 
 email.set_content(html.substitute({'name': 'TinTin'}))

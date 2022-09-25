@@ -65,12 +65,29 @@ Some simple projects created using `Python3`.
 
    By using the `smtplib module` we define an SMTP client session object that can be used to send mail to any internet machine with an SMTP.
 
+   To run the project:
+
+   - go to the `SendingEmail` folder
+   - update `smtp.login` with your email and password from which you are sending the email
+   - update the `from`, `to` and `subject` information
+   - run the following command: <br>
+
+   ```console
+   narcisabadea:~$ python3 email_sender.py
+   ```
+
+   The receiver can now check for the email.
+
    **[⬆ Back to Top](#small-python-projects)**
 
 5. ### Sending SMS
 
    The project uses [`Twilio Library`](https://www.twilio.com/) <br>
-   To run the project go to the `SmsPython` folder. <br>
+   To run the project go to the `SmsPython` folder and run the following command: <br>
+
+   ```console
+   narcisabadea:~$ python3 email_sender.py
+   ```
 
    **[⬆ Back to Top](#small-python-projects)**
 
@@ -78,6 +95,10 @@ Some simple projects created using `Python3`.
 
    The project uses [`Tweepy Library`](https://www.tweepy.org/) <br>
    To run the project go to the `TwitterBot` folder. <br>
+
+   ```console
+   narcisabadea:~$ python3 tweettweet.py
+   ```
 
    **[⬆ Back to Top](#small-python-projects)**
 
@@ -87,12 +108,20 @@ Some simple projects created using `Python3`.
    To run the project go to the `WebScrapping` folder. <br>
    It will do a request to the `https://news.ycombinator.com/news`.
 
+   ```console
+   narcisabadea:~$ python3 scrape.py
+   ```
+
    **[⬆ Back to Top](#small-python-projects)**
 
 8. ### Really smart brain
 
    The project uses [`ImageAI Library`](https://github.com/OlafenwaMoses/ImageAI) which supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings <br>
    To run the project go to the `ReallySmartBrain` folder. <br>
+
+   ```console
+   narcisabadea:~$ python3 brain.py
+   ```
 
    **[⬆ Back to Top](#small-python-projects)**
 
