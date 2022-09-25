@@ -29,6 +29,12 @@ Some simple projects created using `Python3`.
    To run the project go to the `PasswordChecker` folder and use `python3 check_my_pass.py passwordToCheck`. <br>
    It will do a request to the API and return the number of times it was found. <br>
 
+   ```console
+   narcisabadea:~$ python3 check_my_pass.py password123
+   Password password123 was found 250052 times. You should probably change your password
+   Done
+   ```
+
    **[⬆ Back to Top](#small-python-projects)**
 
 3. ### PDF merger
@@ -65,7 +71,7 @@ Some simple projects created using `Python3`.
    To run the project go to the `WebScrapping` folder. <br>
    It will do a request to the `https://news.ycombinator.com/news`.
 
-**[⬆ Back to Top](#small-python-projects)**
+   **[⬆ Back to Top](#small-python-projects)**
 
 8. ### Really smart brain
 
@@ -87,5 +93,3 @@ Some simple projects created using `Python3`.
    The `Jupyter notebook .ipynb` file can be seen [`Here`](https://github.com/narcisabadea/Small-python-projects/blob/main/IrisAnalysis/Iris.ipynb)
 
    **[⬆ Back to Top](#small-python-projects)**
-
-
