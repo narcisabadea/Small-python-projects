@@ -14,6 +14,7 @@ Some simple projects created using `Python3`.
 | 8   | [Really smart brain - ML](#really-smart-brain)              | `ImageAI`, `TensorFlow`                                            |
 | 9   | [Soccer Data Analysis](#soccer-data-analysis)               | `Kaggle Dataset`, `Jupyter notebook`, `pandas`, `seaborn`, `bokeh` |
 | 10  | [Iris Data Analysis](#iris-data-analysis)                   | `Jupyter notebook`, `sklearn`, `joblib`                            |
+| 11  | [Generate QR](#generate-qr)                                 | `Pillow Imaging Library`, `QR Code`                                |
 
 1. ### Converter JPG images to PNG
 
@@ -146,4 +147,13 @@ Some simple projects created using `Python3`.
     The project uses [`Sklearn`](https://scikit-learn.org/stable/) and it's analysed in `Jupyter notebook` by using `datasets`, `model_selection`, `neighbors`, `metrics` from `sklearn`, along with `joblib` <br>
     The `Jupyter notebook .ipynb` file can be seen [`Here`](https://github.com/narcisabadea/Small-python-projects/blob/main/IrisAnalysis/Iris.ipynb)
 
+    **[⬆ Back to Top](#small-python-projects)**
+
+11. ### Generate QR
+    The project uses [`QR Code`](https://pypi.org/project/qrcode/). <br>
+    To run the project go to the `GenerateQr` folder and run the following command: <br>
+
+   ```console
+   narcisabadea:~$ python3 qr_code.py
+   ```
     **[⬆ Back to Top](#small-python-projects)**
