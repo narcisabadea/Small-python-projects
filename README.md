@@ -156,5 +156,5 @@ Some simple projects created using `Python3`.
       ```console
       narcisabadea:~$ python3 qr_code.py
       ```
-
+      <!-- Source: https://www.codedex.io/projects/generate-a-qr-code-with-python -->
       **[⬆ Back to Top](#small-python-projects)**
