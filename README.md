@@ -153,7 +153,8 @@ Some simple projects created using `Python3`.
     The project uses [`QR Code`](https://pypi.org/project/qrcode/). <br>
     To run the project go to the `GenerateQr` folder and run the following command: <br>
 
-   ```console
-   narcisabadea:~$ python3 qr_code.py
-   ```
-    **[⬆ Back to Top](#small-python-projects)**
+      ```console
+      narcisabadea:~$ python3 qr_code.py
+      ```
+
+      **[⬆ Back to Top](#small-python-projects)**
