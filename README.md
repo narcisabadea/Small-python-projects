@@ -15,6 +15,8 @@ Some simple projects created using `Python3`.
 | 9   | [Soccer Data Analysis](#soccer-data-analysis)               | `Kaggle Dataset`, `Jupyter notebook`, `pandas`, `seaborn`, `bokeh` |
 | 10  | [Iris Data Analysis](#iris-data-analysis)                   | `Jupyter notebook`, `sklearn`, `joblib`                            |
 | 11  | [Generate QR](#generate-qr)                                 | `Pillow Imaging Library`, `QR Code`                                |
+| 12  | [Port scanner](#port-scanner)                               | `Socket Library`                                                   |
+| 13  | [Anonymous FTP Scanner](#anonymous-FTP-Scanner)             | `ftplib`                                                           |
 
 1. ### Converter JPG images to PNG
 
@@ -150,11 +152,40 @@ Some simple projects created using `Python3`.
     **[⬆ Back to Top](#small-python-projects)**
 
 11. ### Generate QR
+
     The project uses [`QR Code`](https://pypi.org/project/qrcode/). <br>
     To run the project go to the `GenerateQr` folder and run the following command: <br>
 
-      ```console
-      narcisabadea:~$ python3 qr_code.py
-      ```
+    ```console
+    narcisabadea:~$ python3 qr_code.py
+    ```
+
       <!-- Source: https://www.codedex.io/projects/generate-a-qr-code-with-python -->
-      **[⬆ Back to Top](#small-python-projects)**
+
+    **[⬆ Back to Top](#small-python-projects)**
+
+12. ### Port scanner
+
+    The project uses [`Socket Python Library`](https://pypi.org/project/qrcode/). <br>
+    To run the project go to the `PortScanner` folder and run the following command: <br>
+
+    ```console
+    narcisabadea:~$ python3 portscanner.py
+    ```
+
+      <!-- Source: https://medium.com/vinsloev-academy/python-cybersecurity-build-a-port-scanner-13b798a1b654 -->
+
+    **[⬆ Back to Top](#small-python-projects)**
+
+13. ### Anonymous FTP Scanner
+
+    The project uses [`Socket Python Library`](https://pypi.org/project/qrcode/). <br>
+    To run the project go to the `AnonymousFTPScanner` folder and run the following command: <br>
+
+    ```console
+    narcisabadea:~$ python3 anonymous_scanner.py
+    ```
+
+      <!-- Source: https://medium.com/vinsloev-academy/python-cybersecurity-for-beginners-build-anonymous-ftp-scanner-a62f0534fcf5 -->
+
+    **[⬆ Back to Top](#small-python-projects)**
