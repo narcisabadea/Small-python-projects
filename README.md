@@ -1,4 +1,4 @@
-# Small Python projects
+### Small projects for learning Python by following the Udemy course [Complete Python Developer in 2023: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
 
 Some simple projects created using `Python3`.
 
